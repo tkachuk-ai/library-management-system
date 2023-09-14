@@ -1,0 +1,11 @@
+isbn,name,author,pages,quantity,type
+78350,1984,George Orwell,328,21,fiction
+82749,A Brief History of Time,Stephen Hawking,212,13,nonfiction
+81759,A Tale of Two Cities,Charles Dickens,400,18,fiction
+38112,A Time for Mercy,John Grisham,464,15,fiction
+67920,Animal Farm,George Orwell,141,29,fiction
+90560,Becoming,Michelle Obama,448,8,nonfiction
+87562,Brave New World,Aldous Huxley,311,19,fiction
+82419,Corduroy,Don Freeman,32,28,fiction
+39470,Fahrenheit 451,Ray Bradbury,208,26,fiction
+45623,Freakonomics,Steven D. Levitt and Stephen J. Dubner,320,20,nonfiction

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="398.0" y="304.0">InventoryChart</node>
+    <node x="636.5" y="370.5">SortByQuantity</node>
+    <node x="636.5" y="50.5">SortByISBN</node>
+    <node x="66.5" y="260.0">LibraryRunner</node>
+    <node x="-86.0" y="870.5">NonfictionBook</node>
+    <node x="-419.0" y="327.0">LibraryManagementSystem</node>
+    <node x="-146.0" y="238.0">Book</node>
+    <node x="359.0" y="-5.0">Student</node>
+    <node x="-435.5" y="672.0">Library</node>
+    <node x="244.5" y="870.5">FictionBook</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="FictionBook" target="Book" relationship="GENERALIZATION">
+      <point x="0.0" y="-38.5" />
+      <point x="377.0" y="849.0" />
+      <point x="57.0" y="849.0" />
+      <point x="57.0" y="609.0" />
+      <point x="-63.0" y="609.0" />
+      <point x="0.0" y="171.0" />
+    </edge>
+    <edge source="Library" target="LibraryManagementSystem" relationship="REALIZATION">
+      <point x="0.0" y="-237.0" />
+      <point x="-283.0" y="649.0" />
+      <point x="-303.0" y="649.0" />
+      <point x="0.0" y="82.0" />
+    </edge>
+    <edge source="NonfictionBook" target="Book" relationship="GENERALIZATION">
+      <point x="0.0" y="-38.5" />
+      <point x="57.0" y="609.0" />
+      <point x="-63.0" y="609.0" />
+      <point x="0.0" y="171.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Compact" zoom="1.5" showDependencies="false" x="827.0" y="259.0" />
+  <SelectedNodes>
+    <node>SortByISBN</node>
+    <node>SortByQuantity</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

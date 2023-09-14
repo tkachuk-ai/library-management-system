@@ -1,0 +1,60 @@
+isbn,name,author,pages,quantity,type
+78350,1984,George Orwell,328,21,fiction
+82749,A Brief History of Time,Stephen Hawking,212,13,nonfiction
+81759,A Tale of Two Cities,Charles Dickens,400,18,fiction
+38112,A Time for Mercy,John Grisham,464,15,fiction
+67920,Animal Farm,George Orwell,141,29,fiction
+90560,Becoming,Michelle Obama,448,8,nonfiction 
+87562,Brave New World,Aldous Huxley,311,19,fiction
+82419,Corduroy,Don Freeman,32,28,fiction
+39470,Fahrenheit 451,Ray Bradbury,208,26,fiction
+45623,Freakonomics,Steven D. Levitt and Stephen J. Dubner,320,20,nonfiction
+89302,Goodnight Moon,Margaret Wise Brown,32,55,fiction
+17463,Green Eggs and Ham,Dr. Seuss,62,47,fiction
+76349,How to Stop Worrying and Start Living,Dale Carnegie,301,10,nonfiction
+85923,How to Win Friends and Influence People,Dale Carnegie,288,17,nonfiction
+84325,Influence: The Psychology of Persuasion,Robert Cialdini,336,12,nonfiction
+76439,Outliers,Malcolm Gladwell,309,11,nonfiction
+10384,Pride and Prejudice,Jane Austen,416,21,fiction
+68293,Quiet,Susan Cain,352,20,nonfiction
+87432,Sapiens: A Brief History of Humankind,Yuval Noah Harari,498,5,nonfiction
+73451,The 5 Love Languages,Gary Chapman,208,33,nonfiction
+72029,The 7 Habits of Highly Effective People,Stephen Covey,432,12,nonfiction
+18375,The Adventures of Tom Sawyer,Mark Twain,288,35,fiction
+13044,The Alchemist,Paulo Coelho,208,25,nonfiction
+63827,The Art of War,Sun Tzu,73,23,nonfiction
+46284,The Cat in the Hat,Dr. Seuss,61,42,fiction
+37629,The Catcher in the Rye,J.D. Salinger,224,40,fiction
+71862,The Chronicles of Narnia,C.S. Lewis,752,15,fiction
+73470,The Da Vinci Code,Dan Brown,592,12,nonfiction
+49173,The Fault in Our Stars,John Green,318,13,fiction
+56910,The Girl on the Train,Paula Hawkins,336,19,fiction
+40627,The Girl with the Dragon Tattoo,Stieg Larsson,672,7,fiction
+23596,The Giver,Lois Lowry,240,23,fiction
+28475,The Giving Tree,Shel Silverstein,64,33,fiction
+77561,The Glass Castle,Jeannette Walls,288,28,nonfiction
+57391,The God Delusion,Richard Dawkins,463,10,nonfiction
+97912,The Great Gatsby,F. Scott Fitzgerald,192,30,fiction
+86003,The Help,Kathryn Stockett,544,9,fiction
+86572,The Hitchhiker's Guide to the Galaxy,Douglas Adams,224,27,nonfiction
+45076,The Hobbit,J.R.R. Tolkien,320,22,fiction
+48395,The Hunger Games,Suzanne Collins,384,30,fiction
+17427,The Immortal Life of Henrietta Lacks,Rebecca Skloot,400,14,nonfiction
+98260,The Joy Luck Club,Amy Tan,368,11,fiction
+76284,The Lean Startup,Eric Ries,338,8,nonfiction
+50896,The Life-Changing Magic of Tidying Up,Marie Kondo,224,29,nonfiction
+29855,The Lord of the Rings,J.R.R. Tolkien,1216,10,fiction
+17359,The Lovely Bones,Alice Sebold,328,16,fiction
+23401,The Origin of Species,Charles Darwin,502,10,nonfiction
+94562,The Poky Little Puppy,Janette Sebring Lowrey,24,36,fiction
+45723,The Power of Habit,Charles Duhigg,371,14,nonfiction
+43857,The Power of Now,Eckhart Tolle,224,31,nonfiction
+62833,The Road,Cormac McCarthy,256,17,fiction
+20824,The Secret,Rhonda Byrne,216,37,nonfiction
+49362,The Selfish Gene,Richard Dawkins,360,8,nonfiction
+68477,The Shining,Stephen King,688,20,fiction
+17362,The Stand,Stephen King,1152,5,fiction
+63478,The Tipping Point,Malcolm Gladwell,301,9,nonfiction
+67921,The Very Hungry Caterpillar,Eric Carle,26,63,fiction
+82560,To Kill a Mockingbird,Harper Lee,336,24,fiction
+72891,Where the Wild Things Are,Maurice Sendak,48,39,fiction
